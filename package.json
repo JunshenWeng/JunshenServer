@@ -1,0 +1,20 @@
+{
+  "name": "mysever",
+  "version": "1.0.0",
+  "description": "My first server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunshenWeng/JunshenServer.git"
+  },
+  "author": "Junshen Weng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunshenWeng/JunshenServer/issues"
+  },
+  "homepage": "https://github.com/JunshenWeng/JunshenServer#readme"
+}
